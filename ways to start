@@ -1,0 +1,9 @@
+let FirstName = "kunal";
+let age = 19;
+let isMarried = true;
+
+///
+console.log(FirstName +" is not Married");
+
+console.log(FirstName +" is Married");
+ 
