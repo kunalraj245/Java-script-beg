@@ -1,0 +1,14 @@
+let FirstName = "kunal";
+let age = 19;
+let isMarried = "Monkey";
+
+
+//////
+if(isMarried == true){
+   console.log(FirstName +" is Married");
+  
+  
+} 
+ if(isMarried == false) {
+   console.log(FirstName +" is not Married");
+}
