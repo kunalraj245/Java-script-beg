@@ -1,0 +1,23 @@
+// var number =  5; /// in line comment 
+
+/*this is a 
+aabs 
+df
+si
+hi 
+bool
+mukti 
+*/
+
+/* Data types :
+undefine, null, boolean, string, symbol, number, and object
+*/
+
+
+var myName = "kunal"
+myName = 8 
+
+let ourName = "freecodecamp"
+
+const pi = 3.32
+
