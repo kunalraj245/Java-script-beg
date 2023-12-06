@@ -1,0 +1,59 @@
+// var a = 3;
+// var b = 17;
+// var c = 12;
+
+// only modify code below this line 
+
+// a -= 12;
+// b -= 9;
+// c = 7;
+
+
+
+// like this we can declare strings 
+
+// Example 
+// var FirstName = "Kunal";
+// var lastName = "Raj";
+
+// Only change Code below this line 
+
+// var myFirstName = "Kunal ";
+// // var lastName = "Jha// ";
+
+
+// Quoting Strings with single Quotes
+// var myStr = '<a href="http://www.example.com" 
+// target="_blank">Link</a>';
+
+
+// escape sequences 
+// var myStr = "FirstLine\n\t\\SecoundLine\nThirdLine"
+
+
+
+// Constructing strings and variable
+// Example
+//var ourName ="freecodecamp";
+//var ourStr  = "Hello, our name is " + ourName + ", how are you?";
+
+// Only change code below this line 
+//var myName = "Kunal";
+//var myStr = "my name is " + myName + " and I am well!"; 
+
+//console.log(myStr);
+
+
+
+
+// Example // Appending Variable to strings 
+var anAdjective = "awesome!";
+var ourStr = "freeCodeCamp is";
+ourStr += anAdjective;
+
+// only chnage Code below this line 
+
+var someAdjective = "worthwhile";
+var myStr ="Learning to code is "; 
+myStr += someAdjective; 
+
