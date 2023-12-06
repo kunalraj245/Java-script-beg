@@ -1,0 +1,13 @@
+let a = 1;
+a = 2;
+console.log(a);
+
+let us used it when we know that variables can be changed in  the Javascript program. 
+
+const a = 1;
+console.log(a);
+
+const we used when we know that variable can not be changed in Javascript program
+const a = 1;
+a = 2;
+console.log(a);
