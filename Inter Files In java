@@ -1,0 +1,55 @@
+
+
+// //Acess Multi-Dimensional Arrays with Indxes
+// // setup
+// var myArray =[[1,2,3],[4,5,6],[7,8,9], [[10,11,12], 13, 14]];
+
+// //only change code below this line 
+// var myData = myArray[2][1];
+// console.log(myData);
+
+
+// //Push // pop  
+// // Example 
+// var ourArray =["kunal", "J", "cat" ];
+// var removedFromOurArray = ourArray.shift();
+// // Our Array now equals ["Kunal", "J" , "cat", ["happy", "joy"]]
+
+// //setup
+// var myArray = [["Sid", 23],["cat", 2]];
+
+// // only change code below this line 
+// var removedFromMyArray = myArray.shift();
+
+
+// // Multidimesional Array pop
+
+// var ourArray = [1,2,3];
+// var removedFromOurArray = ourArray.pop();
+
+// //removedfromourArray now equals 3, and ourArray now equals [1,2]
+
+// //Setup
+// var myArray = [["john",23], ["cat", 2]];
+
+// //only change code below this line 
+// var removedFromMyArray = myArray.pop();
+
+// console.log(myArray)
+
+
+
+// // Manipulate Arrays with Unshift()
+// // Example 
+// var ourArray = ["Stimpson", "j", "cat"];
+// ourArray.shift(); // OurArray now equals ["j", "cat"]
+// ourArray.unshift("Happy");
+// // Our Array now equals ["Happy", "j", "cat"]
+
+// //setup 
+
+// var myArray = [["John",23],["dog",3]];
+// myArray.shift();
+
+// //Only Change Code below this line 
+// myArray.unshift(["Paul",35]);
