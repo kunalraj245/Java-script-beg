@@ -1,0 +1,47 @@
+function greet() {
+    console.log("hello world");
+}
+
+setTimeout(greet, 4 * 1000);
+The code defines a function and uses
+setTimeout to delay its execution.
+
+
+
+/////////////////////////////
+function greet() {
+    console.log("hello world");
+}
+
+function greetAlient() {
+    console.log("hello alien");
+}
+
+setTimeout(greetAlient, 4 * 1000);
+The code defines two functions and schedules 
+the execution of one of 
+them (greetAlient) using setTimeout after a specified delay.
+
+
+Combined Summary:
+Both parts use setTimeout to schedule the execution of a function after a delay.
+In the first part, the greet function is called after a delay of 4 seconds, logging "hello world" to the console.
+In the second part, two functions (greet and greetAlient) are defined, and setTimeout is used to call greetAlient after a 4-second delay, logging "hello alien" to the console.
+These examples showcase how setTimeout can be used to introduce delays in the execution of functions in JavaScript.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
