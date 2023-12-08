@@ -1,0 +1,24 @@
+function sum(num1, num2) {
+  let result = num1 + num2;
+  return result;
+}
+
+function displayResult(data) {
+  console.log("Result of the sum is :" + data);
+}
+
+function displayResultPassive(data) {
+  console.log("Sum's result is :" + data);
+}
+
+// you are only allowed to call one function after this 
+//How will you displayResult of sum
+
+const ans = sum(1,2);
+displayResult(ans);
+
+
+// Three functions are defined: sum, displayResult, and displayResultPassive.
+// The sum function calculates the sum of two numbers.
+// The displayResult function logs a message to the console with the result.
+// The code calculates the sum of 1 and 2, stores it in ans, and calls displayResult to log the result to the console.
