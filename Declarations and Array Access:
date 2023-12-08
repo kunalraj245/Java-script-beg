@@ -1,0 +1,103 @@
+//  let person1 = "kunal";
+//  let person2 = "Saint";
+//  let personbv3 = "dic";
+
+
+//  const personArray = {"kunal", "Saint", "dic"};
+
+//  console.log(personArray[0])
+//  console.log(personArray[1])
+//  console.log(personArray[2])
+
+
+
+
+//  let person1 = "kunal";
+//  let person2 = "Saint";  changed variable name to person1
+//  let person3 = "dic";  changed vaiable name to person2
+
+
+//  const personArray = ["kunal", "saint", "dic"];  use square brackets for array declaration 
+
+//  console.log(personArray[0]);  Accesing the first element in the array 
+//  console.log(personArray[1]);  Accessing the secound element in the array 
+//  console.log(personArray[2]);  Accessing the third element in the array 
+
+
+
+//   Array of persons with their details
+//  const personsArray = [
+//    { name: "Kunal", age: 25, occupation: "Enr" },
+//    { name: "Saint", age: 30, occupation: "Doc" },
+//    { name: "Dic", age: 22, occupation: "Eat" }
+//  ];
+
+//   Accessing and printing information about each person
+//  for (let i = 0; i < personsArray.length; i++) {
+//    const person = personsArray[i];
+//    console.log(`Person ${i + 1}:`);
+//    console.log(`Name: ${person.name}`);
+//    console.log(`Age: ${person.age}`);
+//    console.log(`Occupation: ${person.occupation}`);
+//    console.log("--------------------");
+//  }
+
+//  const ages = [21, 22, 23, 24, 25, 26, 100];
+//  const numberOfPeople = ages.length;
+
+//  for (let i = 0; i < numberOfPeople; i++) {
+//         if (ages[i] % 2 == 0) {
+//           console.log(ages[i]);
+//      }       
+//  }
+ 
+//   24 / 2 => 0
+//   23 / 2 => 1
+
+
+//   Array of user objects with details like firstName and gender
+//  const allUsers = [
+//    {
+//      firstName: "kunal",
+//      gender: "male",
+//    },
+//    {
+//      firstName: "Arvind",
+//      gender: "male",
+//      metadata: {
+//        age: 21,
+//        address: "",
+//      },
+//    },
+//    {
+//      firstName: "Sonali",
+//      gender: "female",
+//    }
+//  ];
+
+//   Loop through each user in the array
+//  for (let i = 0; i < allUsers.length; i++) {
+//     Check if the user's gender is "male"
+//    if (allUsers[i]["gender"] == "female") {
+//       If true, print the user's first name to the console
+//      console.log(allUsers[i]["firstName"]);
+//    }
+//  }
+
+//   Example Output:
+//   kunal
+//   Arvind
+
+
+// function sum(a, b) {
+//    do things with the input and return an output
+//   const sumValue = a + b;
+//   return sumValue;
+// }
+
+// const value = sum(1, 78);
+// const value2 = sum(1,90);
+// console.log(value);
+// console.log(value2);
+
+
