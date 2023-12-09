@@ -1,0 +1,52 @@
+
+// function getLength(str) {
+//   console.log("Original String:", str);
+//   console.log("Length:", str.length);
+// }
+// getLength("Hello World");
+
+
+
+// function sum(a, b) {
+//   return a + b;
+// }
+// const finalSum = sum(3, 4);
+// console.log(finalSum) In this example, we declare a function sum that takes two arguments a and b and returns their sums 
+
+
+
+// // Declaring a constant variable 'str' and assigning it the value "Harman Chopra Singh".
+// const str = "Harman Chopra Singh";
+
+// // Logging the length of the string to the console.
+// console.log("The length of the string is:", str.length);
+
+
+
+// // indexOf
+// function findIndexOf(str, target) {
+//   console.log("Original String:", str);
+//   console.log("Index:", str.lastIndexOf(target));
+// }
+// findIndexOf("Hello World World World", "World");
+// // indexof, lastlengthof, indexof this we have learned in this code // indexOf
+
+
+
+// // slice
+// function getSlice(str, start, end) {
+//   console.log("Original String:", str);
+//   console.log("After slice:", str.slice(start, end));
+// }
+// getSlice("Hellokkkkkk World", 0, 5);
+
+// let ans = "Kunal Jha".slice(0,49)
+// console.log(ans)
+
+
+const value = "Kunal Raj";
+let ans = value.substr(2, 5) // nal R
+let ans2 = value.slice(2, 5) // nal
+
+console.log(ans)
+console.log(ans2) 
