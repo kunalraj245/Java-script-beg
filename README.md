@@ -1,2 +1,1 @@
-# Java-script-beg
-New to Java 
+# Java-script
